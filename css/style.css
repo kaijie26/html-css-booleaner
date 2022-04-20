@@ -8,14 +8,13 @@
 
 .sfondo{
     background-image: url(../img/pattern.png);
-    background-size: cover;
-    background-color: blue;
-    width: 500px;
-    
+    background-size: 30%;
+    background-color: rgb(0, 165, 230);
    
 }
 
 .logo{
-    
-    
+    width: 200px;
+    height: 100px;
+    margin: 10px;
 }
