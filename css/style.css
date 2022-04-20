@@ -18,3 +18,27 @@
     height: 100px;
     margin: 10px;
 }
+
+h1{
+    font-size: 50px;
+}
+
+.contenitore{
+    margin: 10px;
+}
+
+.color{
+    color: gray;
+    font-weight: 900;
+    
+}
+
+#special-color{
+    color:	aqua;
+    font-weight: 900;
+
+}
+
+.margine{
+    margin-top: 20px;
+}
