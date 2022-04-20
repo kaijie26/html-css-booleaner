@@ -51,3 +51,16 @@ h1{
     margin-top: 20px;
     margin-left: 15px;
 }
+
+#barra-colorata{
+    background-color: blue;
+    color: white;
+}
+
+.dispari{
+    background-color: rgb(0, 183, 255);
+}
+
+.spazio{
+    width: 50%;
+}
