@@ -42,3 +42,12 @@ h1{
 .margine{
     margin-top: 20px;
 }
+
+.colore-paragrafo{
+    background-color: yellow;
+}
+
+.margine-lista{
+    margin-top: 20px;
+    margin-left: 15px;
+}
